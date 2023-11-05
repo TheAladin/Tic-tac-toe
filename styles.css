@@ -8,3 +8,12 @@
     background-size: cover;
         z-index: -1;
 }
+
+.score-board {
+    font-family: sans-serif;
+    font-size: 150px;
+    font-weight: 550;
+    color: darkslategrey;
+    background-color: aquamarine;
+    text-align: center;
+}
