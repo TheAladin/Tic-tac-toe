@@ -16,4 +16,6 @@
     color: darkslategrey;
     background-color: aquamarine;
     text-align: center;
+    display: flex;
+    align-items: center;
 }
