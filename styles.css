@@ -14,8 +14,14 @@
     font-size: 150px;
     font-weight: 550;
     color: darkslategrey;
-    background-color: aquamarine;
     text-align: center;
     display: flex;
-    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.score-board div {
+    border: 5px solid black;
+    border-radius: 5%;
+    background-color: aquamarine;
 }
