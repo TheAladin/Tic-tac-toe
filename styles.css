@@ -33,13 +33,25 @@ header {
     display: flex;
     justify-content: space-between;
     background-color: lightblue;
+    align-items: center;
 }
 
 ul {
     list-style-type: none;
+    display: flex;
+    gap: 16px;
+    margin: 16px;
 }
 
 a {
     color: black;
     text-decoration: none;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    margin: 16px;
 }
